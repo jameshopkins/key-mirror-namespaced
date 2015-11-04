@@ -1,0 +1,28 @@
+{
+  "name": "key-mirror-namespaced",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "James Hopkins",
+    "url": "https://github.com/jameshopkins"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jameshopkins/key-mirror-namespaced.git"
+  },
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "bugs": {
+    "url": "https://github.com/jameshopkins/key-mirror-namespaced/issues"
+  },
+  "homepage": "https://github.com/jameshopkins/key-mirror-namespaced",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  }
+}
